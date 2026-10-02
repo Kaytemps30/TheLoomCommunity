@@ -1,12 +1,7 @@
-# LOOM website — GitHub and Vercel
+# Activate LOOM forms
+1. Unzip. Upload index.html, coast.png, loom-logo.jpeg and vercel.json into the root of your existing GitHub repository, replacing matching files, then commit. Vercel will deploy the commit.
+2. Open your live website and submit a Contact Us test. Complete the CAPTCHA.
+3. Check hello@theloomcommunity.com for FormSubmit’s activation email, including spam. Click its confirmation link.
+4. Submit NEW tests from Contact Us and Resources. Confirm both arrive, and confirm Reply addresses the visitor. Complete any further activation prompts if shown.
 
-1. Unzip LOOM-GitHub-Vercel.zip on your computer.
-2. Open your GitHub repository. Choose Add file > Upload files.
-3. Upload all five files from the unzipped folder to the repository root (do not upload the ZIP itself).
-4. Commit the changes.
-5. In Vercel, import this GitHub repository if it is not already connected.
-6. Select Framework Preset: Other. No build command is needed. Use the repository root as Root Directory and . as Output Directory.
-7. Deploy. In the Vercel project's Settings > Domains, add your purchased domain and follow the displayed setup instructions.
-
-This is the latest LOOM website, with the What we are weaving copy, Humanitix Get tickets here button, and blended footer logo.
-Resources and contact forms are placeholders and do not send email yet.
+Both forms send through FormSubmit, with CAPTCHA enabled. No Google Form or API key is required. Do not assume the initial activation submission was delivered. This upload package has not yet been deployed to Vercel.
